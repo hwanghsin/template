@@ -1,1 +1,1 @@
-# table-template
+# template
